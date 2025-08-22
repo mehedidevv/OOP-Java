@@ -4,7 +4,7 @@ public class constructorJava {
         System.out.println("Constructor in Java..................");
 
         /// Creating Object for Student Class
-        Student student1=new Student("Mehedi",25);
+        Student student1=new Student("Mehedi Hasan",25);
         student1.studentInfo();
 
         System.out.println("Second Student Information.............");
